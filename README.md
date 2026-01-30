@@ -2,22 +2,11 @@
 
 ## Setup Instructions
 
-### Requirements
-- Python 3.8+
-- pandas
-- numpy
-- matplotlib
-- seaborn
-
-### Installation
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-### Running the Analysis
 1. Place `policies.csv` in the same directory as the notebook
 2. Open `analysis.ipynb` in Jupyter Notebook
 3. Run all cells
+
+**Requirements:** Python 3.8+, pandas, numpy, matplotlib, seaborn
 
 ## Summary of Findings
 
